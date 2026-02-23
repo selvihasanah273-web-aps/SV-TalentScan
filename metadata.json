@@ -1,0 +1,7 @@
+{
+  "name": "Selvi AI - Human Capital Development Partner",
+  "description": "Asisten HR profesional yang membantu pengembangan kompetensi, perencanaan karier, dan simulasi tes kerja dengan pendekatan empatik dan solutif.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
